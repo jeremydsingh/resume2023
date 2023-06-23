@@ -342,6 +342,7 @@ span{
     position: relative;
     font-size: 1.6rem;
     margin:  2rem 0 3rem;
+    text-align: left;
 }
 
 .btn-box.btns{
@@ -959,6 +960,9 @@ section:nth-child(odd) .animate.scroll ,
         width: 0;
     }
 }
+
+
+
 
 /* 53:12 
 1:28:25 https://www.youtube.com/watch?v=sQoiM7i5Nqc&list=WL&index=1&ab_channel=Codehal */
